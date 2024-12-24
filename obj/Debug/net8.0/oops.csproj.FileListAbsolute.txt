@@ -1,0 +1,14 @@
+c:\Users\ADMIN\Desktop\abstraction\bin\Debug\net8.0\oops.exe
+c:\Users\ADMIN\Desktop\abstraction\bin\Debug\net8.0\oops.deps.json
+c:\Users\ADMIN\Desktop\abstraction\bin\Debug\net8.0\oops.runtimeconfig.json
+c:\Users\ADMIN\Desktop\abstraction\bin\Debug\net8.0\oops.dll
+c:\Users\ADMIN\Desktop\abstraction\bin\Debug\net8.0\oops.pdb
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.AssemblyInfoInputs.cache
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.AssemblyInfo.cs
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.csproj.CoreCompileInputs.cache
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.dll
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\refint\oops.dll
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.pdb
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\oops.genruntimeconfig.cache
+c:\Users\ADMIN\Desktop\abstraction\obj\Debug\net8.0\ref\oops.dll
